@@ -7,7 +7,7 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 <img src=/my-octocat-1541332378260.png width="128"> 
-
+![Image of IAMOCAT](/my-octocat-1541332378260.png)
 Syntax highlighted code block
 
 # Header 1
