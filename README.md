@@ -1,4 +1,4 @@
-## Welcome to FirstSecond Page
+<img src=/my-octocat-1541332378260.png width="128">  ## Welcome to FirstSecond Page 
 
 
 
@@ -26,8 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src) and ![Image](c-FirstSecond-sharp.github.io/my-octocat-1541332378260.png)
-
+[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
