@@ -1,4 +1,4 @@
-<img src=/my-octocat-1541332378260.png width="128">  ## Welcome to FirstSecond Page 
+ ## Welcome to FirstSecond Page 
 
 
 
@@ -6,6 +6,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+<img src=/my-octocat-1541332378260.png width="128"> 
 
 Syntax highlighted code block
 
